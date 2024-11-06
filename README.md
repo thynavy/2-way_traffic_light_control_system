@@ -8,6 +8,11 @@ This project demonstrates a **2-way traffic light control system** using a 4017 
     <br />
     <strong>Figure 1: The 2-way traffic light control system</strong>
 </p>
+<p align="center">
+    <img src="https://github.com/thynavy/2-way_traffic_light_control_system/blob/main/LED.jpg" />
+    <br />
+    <strong>Figure 2: Traffic Light LED</strong>
+</p>
 
 ## Features
 
