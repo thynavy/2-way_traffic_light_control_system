@@ -43,4 +43,7 @@ This project demonstrates a **2-way traffic light control system** using a 4017 
 
 This circuit serves as an excellent demonstration of timing control, current management using diodes, and sequencing for traffic applications. It’s a practical project for anyone learning about digital logic, timing circuits, and diode use for current isolation.
 
+## Documentations
+
+[Schematic (PDF)](https://github.com/thynavy/2-way_traffic_light_control_system/blob/main/4017.pdf)
 
